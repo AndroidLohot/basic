@@ -1,3 +1,29 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string-array name="story_title">
+        <item>Story Title 1</item>
+        <item>Story Title 2</item>
+        <item>Story Title 3</item>
+        <item>Story Title 4</item>
+        <item>Story Title 5</item>
+        <item>Story Title 6</item>
+        <item>Story Title 7</item>
+        <item>Story Title 8</item>
+        <item>Story Title 9</item>
+        <item>Story Title 10</item>
+    </string-array>
+
+
+    <string-array name="storys">
+        <item>Storys 1</item>
+        <item>Storys 2</item>
+        <item>Storys 3</item>
+        <item>Storys 4</item>
+        <item>Storys 5</item>
+        <item>Storys 6</item>
+        <item>Storys 7</item>
+        <item>Storys 8</item>
+        <item>Storys 9</item>
+        <item>Storys 10</item>
+    </string-array>
 </resources>
